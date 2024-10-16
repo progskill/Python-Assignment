@@ -14,24 +14,24 @@ The goal of this project is for you to create an ATM-like system that allows use
 
 ### Example Workflow:
 
-````Welcome to Python ATM
+```Welcome to Python ATM
 1. Create Account
 2. Deposit
 3. Withdraw
 4. Check Balance
 5. Exit
 
-#### Enter your choice: 1
+Enter your choice: 1
 Please enter your name: John Doe
 Please enter your initial balance: 500
 
 Account created successfully!
 
-##### Enter your choice: 2
+Enter your choice: 2
 Enter deposit amount: 200
 KES 200 deposited successfully.
 
-#### Enter your choice: 3
+Enter your choice: 3
 Enter withdrawal amount: 100
 KES 100 withdrawn successfully.
 
@@ -39,10 +39,10 @@ Enter your choice: 4
 Your current balance is: $600
 
 Enter your choice: 5
-Thank you for using Python ATM. Goodbye!```
+Thank you for using Python ATM. Goodbye!
 
 ### Tips:
 Think of this as a real-world system: what are the potential errors a user could encounter (e.g., insufficient balance)?
 You can add additional features like transaction history or password protection if you want to challenge yourself further!
 Good luck, and have fun building your own ATM! 🚀
-````
+```
